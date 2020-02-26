@@ -1,15 +1,15 @@
-Package: com.mrmadjb.PxMartPRO
-Version: 0.1-1
+Package: com.eziochiu.Reveal2Loader
+Version: 2.0-1
 Architecture: iphoneos-arm
-Maintainer: TinXie
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.mrmadjb.PxMartPRO_0.1-1_iphoneos-arm.deb
+Maintainer: eziochiu
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs/reveal2Loader.deb
 Size: 12888
-MD5sum: eb8dbfbbc833e04266d7c9834d2f44d9
-SHA1: e68897453e8bf42096a0099cc6c8c008d8920dbf
-SHA256: 43ccc7515d606353c331caa21f05d7b801253fd7c1b564217b84eecce23ae706
+MD5sum: c472df2331beb21c4024e426e0f42985
+SHA1: a62eeab274be6480042a30b6882ae8b1e4e60ef7
+SHA256: 218b1765ce0ca9ebad4dbf0c8f0711c5c45fa7c84d1bef0a8c7d332f4e1a9c8d
 Section: Tweaks
-Description: Bypass 全聯PXPay
-Author: TinXie
-Name: PxMart PRO FJB
+Description: Reveal2loader for iOS 12
+Author: eziochiu
+Name: Reveal2loader
 
