@@ -1,15 +1,19 @@
-Package: com.eziochiu.Reveal2Loader
-Version: 2.0-1
+Package: reveal2loader
+Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: eziochiu
-Depends: firmware (>= 8.0), mobilesubstrate
+Maintainer: eziochiu <eziochiuchina@hotmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, applist, preferenceloader, com.zidaneno5.ExtensionList
+Conflicts: com.rheard.rhrevealloader, com.rheard.reveal-loader
+Replaces: com.rheard.rhrevealloader, com.rheard.reveal-loader
 Filename: ./debs/reveal2Loader.deb
-Size: 12888
+Size: 2665156
 MD5sum: c472df2331beb21c4024e426e0f42985
 SHA1: a62eeab274be6480042a30b6882ae8b1e4e60ef7
 SHA256: 218b1765ce0ca9ebad4dbf0c8f0711c5c45fa7c84d1bef0a8c7d332f4e1a9c8d
-Section: Tweaks
-Description: Reveal2loader for iOS 12
-Author: eziochiu
-Name: Reveal2loader
+Section: System
+Priority: optional
+Description: dynamically loads Reveal into applications and plugins.
+Author: eziochiu <eziochiuchina@hotmail.com>
+Dev: zidaneno5
+Name: reveal2loader for iOS 12
 
