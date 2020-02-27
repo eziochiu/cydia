@@ -6,14 +6,15 @@ Maintainer: EzioChiu<eziochiuchina@hotmaol.com>
 Depends: firmware (>= 8.0)
 Replaces: com.eziochiu.ipfba
 Filename: ./debs/iPFBA.deb
-Size: 111592900
-MD5sum: e96ae875c952e36c6591113831a89eca
-SHA1: 9227e6a5cc02cef93153ebe53b2a5bbd08d73092
-SHA256: c7f0c424ba8f18e1eee7ba9beafa5eaaa7b697540ef4303f85d3688c0019d385
+Size: 111592872
+MD5sum: d8cb9ff3eec5f85b2c03010b250aea29
+SHA1: f41d3339da7d14d80f330dfdc922a1e79cb2b0a7
+SHA256: 7ccd50073ab86f776920ed71019fd9f1300a4d157022124221dac9820b3f44fe
 Section: Games
 Priority: optional
 Description: simlator of fbas
 Author: eziochiu
+Name: 街机模拟器
 
 Package: reveal2loader
 Version: 1.2
