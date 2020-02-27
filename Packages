@@ -1,3 +1,20 @@
+Package: com.eziochiu.ipfba
+Version: 2.0.1
+Architecture: iphone-arm
+Essential: no
+Maintainer: EzioChiu<eziochiuchina@hotmaol.com>
+Depends: firmware (>= 8.0)
+Replaces: com.eziochiu.ipfba
+Filename: ./debs/iPFBA.deb
+Size: 111592900
+MD5sum: e96ae875c952e36c6591113831a89eca
+SHA1: 9227e6a5cc02cef93153ebe53b2a5bbd08d73092
+SHA256: c7f0c424ba8f18e1eee7ba9beafa5eaaa7b697540ef4303f85d3688c0019d385
+Section: Games
+Priority: optional
+Description: simlator of fbas
+Author: eziochiu
+
 Package: reveal2loader
 Version: 1.2
 Architecture: iphoneos-arm

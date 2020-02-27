@@ -1,1 +1,1 @@
-debs/*.deb filter=lfs diff=lfs merge=lfs -text
+debs/iPFBA.deb filter=lfs diff=lfs merge=lfs -text
