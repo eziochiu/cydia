@@ -1,3 +1,21 @@
+Package: NES.emu
+Version: 1.5.29
+Architecture: iphoneos-arm
+Maintainer: EzioChiu<eziochiuchina@hotmaol.com>
+Depends: firmware (>= 4.2)
+Replaces: com.explusalpha.NesEmu
+Filename: ./debs/NesEmu.deb
+Size: 920192
+MD5sum: 3a138c19a7b3165fc11292389da53d33
+SHA1: 88dafc82d86752c345b7e860d09e09d3734bc3a1
+SHA256: a2a44e1278f1b8dfa60051c3f1298ff3114f5733b6b14213e093361fbeacef16
+Section: Games
+Priority: optional
+Description: simlator of nes
+Author: NES.emu
+Dev: NES.emu
+Name: NES.emu
+
 Package: iPFBA
 Version: 2.0.1
 Architecture: iphoneos-arm
