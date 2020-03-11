@@ -16,24 +16,6 @@ Author: NES.emu
 Dev: NES.emu
 Name: NES.emu
 
-Package: Shadowrocket
-Version: 2.1.48-939
-Architecture: iphoneos-arm
-Maintainer: EzioChiu<eziochiuchina@hotmaol.com>
-Depends: firmware (>= 10.0)
-Replaces: com.eziochiu.Shadowrocket
-Filename: ./debs/Shadowrocket.deb
-Size: 106864
-MD5sum: 9adfd58de2dda2705a47186fe56a71f2
-SHA1: 2e36b9347deedc09e7e18a949d6a6a96114b29d0
-SHA256: d68eaf417602d7a53960c36a5549ef9dbc2cbf190a1d5fb0bd6ad97bc7accbd6
-Section: Application
-Priority: optional
-Description: Shadowrocket
-Author: Shadowrocket
-Dev: Shadowrocket
-Name: Shadowrocket
-
 Package: iPFBA
 Version: 2.0.1
 Architecture: iphoneos-arm
