@@ -35,16 +35,16 @@ Dev: eziochiu
 Name: 街机模拟器
 
 Package: me.nepeta.relocate
-Version: 0.1.11-23+debug
+Version: 0.1.11-4
 Architecture: iphoneos-arm
 Maintainer: Nepeta
-Installed-Size: 768
+Installed-Size: 520
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7)
-Filename: ./debs/me.nepeta.relocate_0.1.11.deb
-Size: 124254
-MD5sum: 0f04f362d237307105716196a809b0ed
-SHA1: 04ee626ff9adb1cbae984482bdc5f09fb6e89231
-SHA256: 362ab2d07519439eff11e28f38dd5611d622282d3a3dab13a0376fecced77b06
+Filename: ./debs/me.nepeta.relocate_0.1.11-4_iphoneos-arm.deb
+Size: 99808
+MD5sum: 268027450a1aef6fc5b471a1ed9b9018
+SHA1: f4c332d9500c99ff4f1781fcd7a54c4a1823aada
+SHA256: 3352de87167bf6803b6f6fbe6c1c494c4d40219114156a066bf444d7eb7cf394
 Section: Tweaks
 Description: Minimalist GPS spoofer (free)
 Author: Nepeta
