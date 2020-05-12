@@ -17,16 +17,16 @@ Dev: NES.emu
 Name: NES.emu
 
 Package: com.ezio.lowpower
-Version: 1.0.0-1
+Version: 1.0.1-1
 Architecture: iphoneos-arm
 Maintainer: eziochiu
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/com.ezio.lowpower_1.0.0-1_iphoneos-arm.deb
-Size: 4686
-MD5sum: b25449c52e47ba5c4b0234268bae1d63
-SHA1: c9504b1e5be791f9c3d674b0d3270393fe3362d2
-SHA256: 3e7ef62fe940e6d0f634ea70733d2c630ae2238a2bcedf2af1bf88d28a1c5623
+Filename: ./debs/com.ezio.lowpower_1.0.1-1_iphoneos-arm.deb
+Size: 4828
+MD5sum: cd1de8de0036d97c4ceb3b873dc305bb
+SHA1: 9efbc61ccbf0e429ea07812ee47c61d3f1d65add
+SHA256: 32795a4efaccfd4a5da0331013bfba52e8ee1c516d60a69399165af589b80463
 Section: Tweaks
 Description: 充电状态下始终取消省点模式，非充电状态下始终开启省电模式，无设置项
 Author: eziochiu
