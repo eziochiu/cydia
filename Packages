@@ -17,7 +17,7 @@ Dev: NES.emu
 Name: NES.emu
 
 Package: com.ezio.lowpower
-Version: 1.0.1
+Version: 1.0.1-1
 Architecture: iphoneos-arm
 Maintainer: eziochiu
 Installed-Size: 152
@@ -33,7 +33,7 @@ Author: eziochiu
 Name: lowpower
 
 Package: com.ezio.netspeed
-Version: 0.0.2
+Version: 0.0.2-1
 Architecture: iphoneos-arm
 Maintainer: eziochiu
 Installed-Size: 424
@@ -70,7 +70,7 @@ Dev: eziochiu
 Name: 街机模拟器
 
 Package: me.nepeta.relocate
-Version: 0.1.13
+Version: 0.1.13-1
 Architecture: iphoneos-arm
 Maintainer: eziochiu
 Installed-Size: 600
@@ -80,6 +80,22 @@ Size: 106900
 MD5sum: 2154715a7a00a6c2993872819e5d5d1f
 SHA1: c60a366be2e61e22d2385e8675ab74cf2e4488f5
 SHA256: 6d3ab0b350227bce73e26fda021f3a985893a20b394c8a3616cc3ac1e16b9bcf
+Section: Tweaks
+Description: Minimalist GPS spoofer (free) and virtualWIFI
+Author: eziochiu
+Name: Relocate
+
+Package: me.nepeta.relocate
+Version: 0.1.13-3
+Architecture: iphoneos-arm
+Maintainer: eziochiu
+Installed-Size: 600
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7)
+Filename: ./debs/me.nepeta.relocate_0.1.13-3_iphoneos-arm.deb
+Size: 106916
+MD5sum: 12ecd4d2e73114aab0e5c915665ca70f
+SHA1: 70e85b7665c7d2ec5bf2fab173555d47feaf2796
+SHA256: faedbdc237dda9c48310908008271059ae51d2300eb1e74e9f7424905f4cc475
 Section: Tweaks
 Description: Minimalist GPS spoofer (free) and virtualWIFI
 Author: eziochiu
