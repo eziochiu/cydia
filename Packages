@@ -86,6 +86,22 @@ Author: eziochiu
 Name: Relocate
 
 Package: me.nepeta.relocate
+Version: 0.1.13-29
+Architecture: iphoneos-arm
+Maintainer: eziochiu
+Installed-Size: 608
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7)
+Filename: ./debs/me.nepeta.relocate_0.1.13-29_iphoneos-arm.deb
+Size: 112644
+MD5sum: df6eb0dc93975a38ba8036c6761f9cbf
+SHA1: 36c9fd6fb452980ba8419a3284b36f57f6142e1e
+SHA256: 38da6f27afee9435751a4f20dcd129472d1566b5624e3d0b32a16a6487e70caf
+Section: Tweaks
+Description: Minimalist GPS spoofer (free) and virtualWIFI
+Author: eziochiu
+Name: Relocate
+
+Package: me.nepeta.relocate
 Version: 0.1.13-3
 Architecture: iphoneos-arm
 Maintainer: eziochiu
