@@ -51,6 +51,22 @@ Description: 轻量级网速显示插件，支持iOS10-iOS13，支持A6-A13处�
 Author: eziochiu
 Name: NtSpeed
 
+Package: ezio.fakedevicemodel
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Ezio Chiu
+Installed-Size: 372
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, com.rpetrich.rocketbootstrap (>= 0.1.7)
+Filename: ./debs/ezio.fakedevicemodel_0.0.1-1_iphoneos-arm.deb
+Size: 25560
+MD5sum: d7825d3a762d3acf6453b49a6c2a27be
+SHA1: 93a4dba4ee95bc423dde78f4031f00f85299afad
+SHA256: d59da86ec9a5ef1372a28edece56160ebf3a99ea07a4a1682983e3376e3f23c7
+Section: Tweaks
+Description: 虚拟机型插件
+Author: Ezio Chiu
+Name: fakeDeviceModel
+
 Package: iPFBA
 Version: 2.0.1
 Architecture: iphoneos-arm
