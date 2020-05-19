@@ -67,6 +67,22 @@ Description: 虚拟机型插件
 Author: Ezio Chiu
 Name: fakeDeviceModel
 
+Package: ezio.fakedevicemodel
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: Ezio Chiu
+Installed-Size: 356
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, com.rpetrich.rocketbootstrap (>= 0.1.7)
+Filename: ./debs/ezio.fakedevicemodel_0.0.1-2_iphoneos-arm.deb
+Size: 24614
+MD5sum: 34fc3e2784bb338caa6b18f9131c7a36
+SHA1: 12525a128ac9ca28afcaf118c6ad5c1d67bbeff9
+SHA256: eef073762427cd770a2a610fcb9ec10741d33a0dad49ca56f20c92c1aedd0ac9
+Section: Tweaks
+Description: 虚拟机型插件
+Author: Ezio Chiu
+Name: fakeDeviceModel
+
 Package: iPFBA
 Version: 2.0.1
 Architecture: iphoneos-arm
