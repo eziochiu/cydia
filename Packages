@@ -84,16 +84,16 @@ Author: Ezio Chiu
 Name: fakeDeviceModel
 
 Package: iPFBA
-Version: 2.0.1
+Version: 3.0.0
 Architecture: iphoneos-arm
 Maintainer: EzioChiu<eziochiuchina@hotmaol.com>
 Depends: firmware (>= 8.0)
 Replaces: com.eziochiu.ipfba
 Filename: ./debs/iPFBA.deb
-Size: 47686728
-MD5sum: 0eef9dd555d7a0e7e657f03eec84f1dd
-SHA1: 5de8abcd32f60fce55b316b13af58f9c542f2539
-SHA256: bdc06bcabf8087bc18ff7d61010a905c23e3df6dd7b63721733d93cc0b93c61e
+Size: 43927000
+MD5sum: 5daa2f6dfd75be7212f98584e26b337c
+SHA1: 7ecf3c00e9b5bbb44e8e2324ad6c362ddeafd2e0
+SHA256: 555c1906b0ab5d7cfd570f4cc10660be13ea575fe39553b1c7d21699dda896ba
 Section: Games
 Priority: optional
 Description: simlator of fbas
