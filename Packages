@@ -90,10 +90,10 @@ Maintainer: EzioChiu<eziochiuchina@hotmaol.com>
 Depends: firmware (>= 8.0)
 Replaces: com.eziochiu.ipfba
 Filename: ./debs/iPFBA.deb
-Size: 25542208
-MD5sum: 7167e443a833791500716d4a9130c37d
-SHA1: 4b5e7e8e773a4d5b1c6c74477347643e83035260
-SHA256: 17f0113fe77c6ba8d4926ec014060057b3e91e2a3067c3ccd17e68e6be057c59
+Size: 44002036
+MD5sum: fbffd09555731f866a221d370dfe4680
+SHA1: a7c589674e2c5d21d0b7372ed86b7ea7eae7548f
+SHA256: 68432e598367daed337883d8ca1422e6c735e8eccb77b2378a583a4ecb628011
 Section: Games
 Priority: optional
 Description: simlator of fbas
