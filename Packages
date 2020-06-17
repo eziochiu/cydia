@@ -83,24 +83,6 @@ Description: 虚拟机型插件
 Author: Ezio Chiu
 Name: fakeDeviceModel
 
-Package: iPFBA
-Version: 3.2.0
-Architecture: iphoneos-arm
-Maintainer: EzioChiu<eziochiuchina@hotmaol.com>
-Depends: firmware (>= 8.0)
-Replaces: com.eziochiu.ipfba
-Filename: ./debs/iPFBA.deb
-Size: 51714240
-MD5sum: 2a1523fafe9a4dbb2feace92f008b92a
-SHA1: 7eaf413d3531f8dadd86b76083ce871a880245f2
-SHA256: 1fd1289c1e3a16ae0026708a8dc56050f0055c45ea6f5301f3481a76e6bb89f9
-Section: Games
-Priority: optional
-Description: mobile simlator of fbneo
-Author: eziochiu
-Dev: eziochiu
-Name: 街机模拟器
-
 Package: me.nepeta.relocate
 Version: 0.1.13-1
 Architecture: iphoneos-arm
