@@ -132,21 +132,21 @@ Author: eziochiu
 Name: Relocate
 
 Package: reveal2loader
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: eziochiu <eziochiuchina@hotmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate, applist, preferenceloader, com.zidaneno5.ExtensionList
 Conflicts: com.rheard.rhrevealloader, com.rheard.reveal-loader
 Replaces: com.rheard.rhrevealloader, com.rheard.reveal-loader
 Filename: ./debs/reveal2Loader.deb
-Size: 2665156
-MD5sum: c472df2331beb21c4024e426e0f42985
-SHA1: a62eeab274be6480042a30b6882ae8b1e4e60ef7
-SHA256: 218b1765ce0ca9ebad4dbf0c8f0711c5c45fa7c84d1bef0a8c7d332f4e1a9c8d
+Size: 2729616
+MD5sum: 473d1c26e25145e1e1756b317707d492
+SHA1: 30dad846cc900a748c66fdf7ff416f31f7e8e42b
+SHA256: 4668fab8d3ef3d5e2d79e45dfcb51b84b0c42759076cabb1a42e7f0fe7a90d51
 Section: System
 Priority: optional
 Description: dynamically loads Reveal into applications and plugins.
 Author: eziochiu <eziochiuchina@hotmail.com>
 Dev: zidaneno5
-Name: reveal2loader for iOS 12
+Name: RevealLoader fixed for iOS13
 
