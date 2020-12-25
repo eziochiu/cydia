@@ -83,6 +83,24 @@ Description: 虚拟机型插件
 Author: Ezio Chiu
 Name: fakeDeviceModel
 
+Package: iFBN
+Version: 4.0.2
+Architecture: iphoneos-arm
+Maintainer: EzioChiu<eziochiuchina@hotmaol.com>
+Depends: firmware (>= 10.0)
+Replaces: com.eziochiu.ipfba
+Filename: ./debs/iFBN.deb
+Size: 86893436
+MD5sum: d34e9d48d84855df628fed64e46c679e
+SHA1: 7987342426e401a694fd7783838c5d31d27202cf
+SHA256: ef544c651e7beded585e273b83266aaf2fd4594bc4cb7e23816b7db65feb80f8
+Section: Games
+Priority: optional
+Description: a arcade simlator for iOS
+Author: eziochiu
+Dev: eziochiu
+Name: 街机模拟器
+
 Package: me.nepeta.relocate
 Version: 0.1.13-1
 Architecture: iphoneos-arm
