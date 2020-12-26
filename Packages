@@ -90,10 +90,10 @@ Maintainer: EzioChiu<eziochiuchina@hotmaol.com>
 Depends: firmware (>= 10.0)
 Replaces: com.eziochiu.ipfba
 Filename: ./debs/iFBN.deb
-Size: 79262528
-MD5sum: e85878a28f2335567cc3a0bfc4960fb2
-SHA1: fa9286b681b144d084fe597d1008ae83dd42a418
-SHA256: 5df9c8b83982d89f53528b6ba22a235abc850e5a6e978ee3feb192df830fb24b
+Size: 79229824
+MD5sum: f68cf41fcb52480fea283731baf73c7f
+SHA1: 8ecbf7f77992c3bee934cbe7575481c89175e0a8
+SHA256: 7b452ae2783f54868854c4fcb9d74002d8609bb26469c0398d30d8dc312feca7
 Section: Games
 Priority: optional
 Description: a arcade simlator for iOS
