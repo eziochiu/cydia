@@ -1,3 +1,21 @@
+Package: Delta
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: unknow
+Depends: firmware (>= 12.2)
+Replaces: com.rileytestut.Delta
+Filename: ./debs/Delta.deb
+Size: 13480968
+MD5sum: 22e36925e44907bd532a02517871a885
+SHA1: 63a9c568abb931c6d9ac7acb9b75f41f3dae0a1a
+SHA256: a907dc3c1cd7245a03dc88844c75d7af11a76d22aa0eb6d7a3fe9052ae04e7a0
+Section: Games
+Priority: optional
+Description: a GBA simlator for iOS
+Author: unknow
+Dev: unknow
+Name: Delta
+
 Package: NES.emu
 Version: 1.5.29
 Architecture: iphoneos-arm
