@@ -102,16 +102,16 @@ Author: Ezio Chiu
 Name: fakeDeviceModel
 
 Package: iFBN
-Version: 4.0.2.3
+Version: 4.0.2.4
 Architecture: iphoneos-arm
 Maintainer: EzioChiu<eziochiuchina@hotmaol.com>
 Depends: firmware (>= 10.0)
 Replaces: com.eziochiu.ipfba
 Filename: ./debs/iFBN.deb
 Size: 53833980
-MD5sum: 9b721f02724e30ad761448c6ddf842b8
-SHA1: a9cc228688b1de11b8688460f55d3917be5b7428
-SHA256: 568148489bf7f56d5c9939574134cebaecd6b7af5456234155c8534f50edd3b3
+MD5sum: 0a42e42efe3b1f9227aa4cd34359a3f6
+SHA1: 8b413f8b3aac41ea5962078a5bc21d19031fad16
+SHA256: 7872af33dbf31cedb452d04b12342dd6daaf959b7db93571c287bf8dc5c6a490
 Section: Games
 Priority: optional
 Description: 4.0.2.4 has fixed series bugs
