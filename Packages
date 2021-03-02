@@ -108,13 +108,13 @@ Maintainer: EzioChiu<eziochiuchina@hotmaol.com>
 Depends: firmware (>= 10.0)
 Replaces: com.eziochiu.ipfba
 Filename: ./debs/iFBN.deb
-Size: 53609900
-MD5sum: 2a5bf2e3365be066d9eb77012b4fd3c0
-SHA1: 39bafd314a2a239154d47baa7471d56bf4ce5421
-SHA256: f726d312bbbb53865f08889361a368c01f9b6942d37bd9109dea7ab6d2407e25
+Size: 53833980
+MD5sum: 9b721f02724e30ad761448c6ddf842b8
+SHA1: a9cc228688b1de11b8688460f55d3917be5b7428
+SHA256: 568148489bf7f56d5c9939574134cebaecd6b7af5456234155c8534f50edd3b3
 Section: Games
 Priority: optional
-Description: 4.0.2.3 has fixed series pgm's bugs
+Description: 4.0.2.4 has fixed series bugs
 Author: eziochiu
 Dev: eziochiu
 Name: iFBN
